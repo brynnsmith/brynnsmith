@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brynnsmith, a Full Stack Web Developer in Toronto
+- 👋 Hi, I’m @brynnsmith
 - 👀 I’m interested in building web applications, solving problems, environmental sustainability and video games.
 - 🌱 I’m currently learning JavaScript with #100Devs
 - 💞️ I’m looking to collaborate on all sorts of creative and innovative projects. Let's chat!
