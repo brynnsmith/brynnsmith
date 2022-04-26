@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brynnsmith
-- 👀 I’m interested in developing web apps, problem solving, environmental sustainability, climate tech, space and AI. 
+- 👀 I’m interested in software development, problem solving, environmental sustainability, climate tech, space and AI. 
 - I love helping others and learning new skills.
 - 🌱 I’m currently learning JavaScript with #100Devs
 - 💞️ I’m looking to collaborate on all sorts of creative and innovative projects. Let's chat!
