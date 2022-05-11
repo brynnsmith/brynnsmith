@@ -1,4 +1,4 @@
-<img align="center" src="https://brynnsmith.com/images/github-header-02.png" alt="Brynn Smith - your friendly full stack web dev with github logo in aqua">
+<img align="center" src="https://brynnsmith.com/images/github-header-03.png" alt="Brynn Smith - your friendly full stack web dev with github logo in aqua">
 
 - 👋 Hi, I’m @brynnsmith
 - 👀 I’m interested in software development, problem solving, environmental sustainability, climate tech, space and AI. 
