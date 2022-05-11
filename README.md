@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brynnsmith
 - 👀 I’m interested in software development, problem solving, environmental sustainability, climate tech, space and AI. 
 - 🌎 I'm always exploring new skills and love taking on new challenges.
-- 🌱 I’m currently learning back-end development with #100Devs
+- 🌱 I’m currently learning Japanese.
 - 💞️ I’m looking to collaborate on creative and innovative projects. Let's chat!
 - 📫 How to reach me: brynn@brynnsmith.com
 
