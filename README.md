@@ -3,10 +3,10 @@
 <h3 align="center">A full stack web developer who uses their tech powers for good.</h3>
 
 <div width="500px" align="center">
-- 👀 I’m interested in software development, problem solving, environmental sustainability, climate tech, space and AI. 
-- 🌎 I'm always exploring new skills and love taking on new challenges.
-- 🌱 I’m currently learning Japanese.
-- 💞️ I’m looking to collaborate on creative and innovative projects. Let's chat!
+- 👀 I’m interested in software development, problem solving, environmental sustainability, climate tech, space and AI. <br>
+- 🌎 I'm always exploring new skills and love taking on new challenges.<br>
+- 🌱 I’m currently learning Japanese.<br>
+- 💞️ I’m looking to collaborate on creative and innovative projects. Let's chat!<br>
 - 📫 How to reach me: brynn@brynnsmith.com
  </div>
 
