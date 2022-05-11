@@ -1,6 +1,6 @@
 <img align="center" src="https://brynnsmith.com/images/github-header-4-01.png" alt="Brynn Smith - your friendly full stack web dev with github logo in aqua">
 <h1 align="center">Hi 👋, I'm Brynn Smith</h1>
-<h3 align="center">A full stack web developer who uses their tech powers for good.</h3>
+<h3 align="center">Let's build something incredible.</h3>
 
 <div width="500px" align="center">
 - 👀 I’m interested in software development, problem solving, environmental sustainability, climate tech, space and AI. <br>
