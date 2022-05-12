@@ -1,4 +1,4 @@
-<img align="center" src="https://brynnsmith.com/images/github-header-4-01.png" alt="Brynn Smith - your friendly full stack web dev with github logo in aqua">
+<img align="center" src="https://brynnsmith.com/images/github-header-tp-01.png" alt="Brynn Smith - your friendly full stack web dev with github logo in aqua">
 <h1 align="center">Hello 👋, I'm Brynn</h1>
 <h3 align="center">Let's build something incredible.</h3>
 <div align="center">
