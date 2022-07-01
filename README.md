@@ -4,7 +4,7 @@
 <h4 align ="center" margin-top="-10px">I'm passionate about working with technology in purposeful and innovative ways to improve our relationships with ourselves, each other and the world around us. Let's build something incredible.</h4>
 <div align="center">
 👀 I’m interested in software development, problem solving, a11y, environmental sustainability, climate tech and AI.<br>
-🌎 I'm always exploring new skills and love taking on new challenges.<br>
+🌎 I'm always exploring new skills and love taking on new and exciting challenges.<br>
 🌱 I’m currently learning Japanese.<br>
 ⚡ Fun fact: I enjoy playing and testing video games.<br>
 💞️ I’m looking to collaborate on creative and innovative projects.<br>
