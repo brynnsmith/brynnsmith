@@ -21,7 +21,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/brynnsm1th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brynnsm1th" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/brynn-amber-smith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brynn-amber-smith" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/brynnasmith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brynn-amber-smith" height="30" width="40" /></a>
 </p>
 <!---
 brynnsmith/brynnsmith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
